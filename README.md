@@ -14,12 +14,11 @@ The objective of this project is to build a machine learning model that predicts
 
 ## Dataset
 
-The dataset contains:
+The dataset used in this project contains information about students' weekly self-study hours, attendance, class participation, total scores, and grades.
 
-- Weekly Self Study Hours
-- Total Score
+**Note:** The original dataset is not included in this repository because it exceeds GitHub's file upload size limit.
 
----
+To run this project, download the dataset from Kaggle and place the `student_performance.csv` file in the project folder before executing the code.
 
 ## Technologies Used
 
